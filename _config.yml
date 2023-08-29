@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Intro to Computation for Linguists
-description: A UC Berkeley course designed by students aiming to introduce computational linguistics
-author: Andres Sanchez, Zaid Maayah, Pranav Jayachand
-baseurl: '/sp23' # the subpath of your site, e.g. /blog
+title: Intro to Conlanging
+description: A UC Berkeley course designed by students aiming to introduce the art of constructed languages
+author: Zaid Maayah, Naomi Schroeter, Ryan Zhu
+baseurl: '/fa23' # the subpath of your site, e.g. /blog
 url: 'https://calslugs-decal.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
