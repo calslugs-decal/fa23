@@ -35,6 +35,8 @@ No background in linguistics is necessary for success in this class, but it will
 
 ## Grading Breakdown
 
+The class is out of 150 points, and you will pass if you earn 70% of the available points (105 points) and you <b>must</b> turn in a final project.
+
 <ul>
 <li>Attendance (5 points per meeting * 13 meetings = 65 points or ~43% of total): We like having you around. Please come to class. If you miss a class, include a short summary of the lecture based on the slides (or ask a friend!) at the top of the adjoining lab to get attendance points back.</li>
 <li>Labs (5 points each * 10 labs = 50 points or ~33% of total): Labs consist of exercises relating to each week’s lecture, and are designed to be completed during class. If you turn in your lab at the end of class, we’ll read it and give feedback by the next class. If you want to spend more time on it, that’s fine! Just know that feedback might not be provided by the next class.</li> 
