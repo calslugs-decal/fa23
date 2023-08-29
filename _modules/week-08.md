@@ -2,6 +2,6 @@
 title: Week 8
 ---
 
-Mar. 21
-: **Lecture**{: .label .label-green }[Text Generation II](#)
-: **Lab 7**{: .label .label-purple }[TBA](#)
+Oct. 24
+: **Lecture**{: .label .label-green }[TBA]()
+: **Lab 6**{: .label .label-purple }[TBA]()

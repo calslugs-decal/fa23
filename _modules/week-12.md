@@ -2,5 +2,6 @@
 title: Week 12
 ---
 
-Apr. 18
-: **Project**{: .label .label-blue }[Project Work Session](#)
+Nov. 21
+: **Lecture**{: .label .label-green }[TBA]()
+: **Lab 10**{: .label .label-purple }[TBA]()
