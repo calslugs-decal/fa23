@@ -25,11 +25,11 @@ schedule:
         end: 6:30 PM
         location: Latimer 105
   - name: Wednesday
+      events:
+      - name: Office Hours
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Dwinelle 1203 or Remote
   - name: Thursday
   - name: Friday
-    events:
-      - name: Office Hours
-        start: 1:00 PM
-        end: 3:00 PM
-        location: Dwinelle 1202 or Remote
 ---
