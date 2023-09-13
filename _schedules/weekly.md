@@ -26,9 +26,9 @@ schedule:
         location: Latimer 105
   - name: Wednesday
       events:
-      - name: Office Hours
-        start: 3:00 PM
-        end: 4:00 PM
+        - name: Office Hours
+          start: 3:00 PM
+          end: 4:00 PM
         location: Dwinelle 1203 or Remote
   - name: Thursday
   - name: Friday
