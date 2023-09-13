@@ -10,11 +10,11 @@ seo:
 
 # toki!
 
-We're still working on this site.
+Welcome to the Conlang DeCal, run by the [Society of Linguistics Undergraduate Students (SLUgS)](http://slugs.berkeley.edu/)!
 
 We will meet on Tuesdays at 5-6:30pm in [Etcheverry 3107](https://goo.gl/maps/fFyejvbF3BQ6mfXp9). 
 <br>
-We will also hold hybrid office hours on Fridays at 1-3pm. You may attend in-person in [the Linguistics Lounge (Dwinelle 1203)](https://goo.gl/maps/ijwJZkd7UjrLRtNU7), or remotely through the class Discord server.
+We will also hold hybrid office hours on Wednesdays at 3-4pm. You may attend in-person in [the Linguistics Lounge (Dwinelle 1203)](https://goo.gl/maps/ijwJZkd7UjrLRtNU7), or remotely through the class Discord server.
 ## Calendar
 {% for module in site.modules %}
 {{ module }}
